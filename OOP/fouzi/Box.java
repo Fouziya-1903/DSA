@@ -29,4 +29,8 @@
             this.w = oldBox.w;
         }
 
+        public void display(){
+            System.out.println("This is Box class");
+        }
+
     }
