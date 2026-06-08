@@ -1,0 +1,17 @@
+Arrays_ArrayLists_Checklist.pdf
+DSA_Full_Checklist.pdf
+dsa_patterns_master_syllabus.pdf
+Zero_Gap_DSA_Full_System.docx
+
+# Ignore all compiled Java class files
+*.class
+
+# Ignore packaged Java archives
+*.jar
+*.war
+
+# Optional: Ignore IDE-specific folders (like IntelliJ or Eclipse)
+.idea/
+.settings/
+bin/
+out/

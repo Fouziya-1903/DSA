@@ -20,7 +20,6 @@ public class Main {
         // dd.display();
 
         CL c = new CL();
-        c.insert(0);
         c.insertIndex(1, 0);
         c.insertIndex(10, 1);
         c.display();
